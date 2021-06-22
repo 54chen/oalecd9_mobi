@@ -18,3 +18,11 @@ kindlegen oalecd.opf
 
 
 1.xml有点大，传不上来，需要的email我 czhttp@gmail.com
+
+screenshot
+----------
+
+![Screenshot](https://github.com/54chen/oalecd9_mobi/blob/main/1.jpg)
+
+![Screenshot](https://github.com/54chen/oalecd9_mobi/blob/main/2.jpg)
+
