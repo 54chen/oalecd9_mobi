@@ -1,6 +1,6 @@
 # oalecd9_mobi
 
-通过网上流行的《牛津高阶英汉双解词典》的mdx文件，转到mobi版本，给kindle使用。
+通过网上流行的《牛津高阶英汉双解词典第9版》的mdx文件，转到mobi版本，给kindle使用。
 
 先要转成appleDict的版本，再利用他的xml转成mobi的版本。直接用pyglossory转mobi的话，基本上没法用。
 
