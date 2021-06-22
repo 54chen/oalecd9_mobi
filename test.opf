@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core"
+			xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+			<dc:Title>牛津高阶英汉双解词典(第9版)</dc:Title>
+			<dc:Language>en</dc:Language>
+			<dc:Identifier id="uid">555d78702acc4f5e9acd4ff4347b9481</dc:Identifier>
+			<dc:Creator>54chen</dc:Creator>
+			<dc:Rights>54chen</dc:Rights>
+			<dc:Subject BASICCode="REF008000">Dictionaries</dc:Subject>
+		</dc-metadata>
+		<x-metadata>
+			<output encoding="utf-8"></output>
+			<DictionaryInLanguage>en</DictionaryInLanguage>
+			<DictionaryOutLanguage>en</DictionaryOutLanguage>
+		        <DefaultLookupIndex>headword</DefaultLookupIndex>
+			<EmbeddedCover>cover.png</EmbeddedCover>
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item href="xhtml/0-100.xhtml" id="xhtml/0-100.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/100-200.xhtml" id="xhtml/100-200.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/200-300.xhtml" id="xhtml/200-300.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/300-400.xhtml" id="xhtml/300-400.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/400-500.xhtml" id="xhtml/400-500.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/500-600.xhtml" id="xhtml/500-600.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/600-700.xhtml" id="xhtml/600-700.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/700-800.xhtml" id="xhtml/700-800.xhtml" media-type="application/xhtml+xml" />
+		<item href="xhtml/800-900.xhtml" id="xhtml/800-900.xhtml" media-type="application/xhtml+xml" />
+				
+	</manifest>
+	<spine>
+<itemref idref="xhtml/0-100.xhtml" />
+		<itemref idref="xhtml/100-200.xhtml" />
+		<itemref idref="xhtml/200-300.xhtml" />
+		<itemref idref="xhtml/300-400.xhtml" />
+		<itemref idref="xhtml/400-500.xhtml" />
+		<itemref idref="xhtml/500-600.xhtml" />
+		<itemref idref="xhtml/600-700.xhtml" />
+		<itemref idref="xhtml/700-800.xhtml" />
+		<itemref idref="xhtml/800-900.xhtml" />
+
+	</spine>
+	<tours></tours>
+	<guide></guide>
+</package>
